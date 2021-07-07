@@ -25,18 +25,18 @@ CodeIgniter :
 
 
 Laravel : 
--The most popular PHP Framework.
--Clean Code and follows good practices.
--It may be slow on some environements.
--Preferable for big projects.
+- The most popular PHP Framework.
+- Clean Code and follows good practices.
+- It may be slow on some environements.
+- Preferable for big projects.
 
 
 Phalcon :
--One of the fastest PHP frameworks (Built with C :heart:).
--Can be difficult to use.
--Stable and fast wich make it the better option if performance is the main priority
+- One of the fastest PHP frameworks (Built with C :heart:).
+- Can be difficult to use.
+- Stable and fast wich make it the better option if performance is the main priority
 
 
 Symfony :
--The code quality of Symfony makes it, as of today, one of the best architected and cleanest PHP frameworks available.
--Performance can be an issue sometimes, especially with older versions of Symfony.
+- The code quality of Symfony makes it, as of today, one of the best architected and cleanest PHP frameworks available.
+- Performance can be an issue sometimes, especially with older versions of Symfony.
