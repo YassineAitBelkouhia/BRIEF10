@@ -38,9 +38,10 @@ Symfony :
 
 
 
+
 ### II-``DEFINITION OF SOME CORE CONCEPTS:`` 
 
-I will be chosing LARAVEL for its Command Line Interface, Support for the Database system and migrations. It also its packaging system.
+I will be chosing LARAVEL for its Command Line Interface, Support for the Database system and migrations, and also its packaging system.
 
 Here are some core concepts of laravel:
  > ``Artisan:`` Laravel has its own command line interface called as Artisan. Common uses of Artisan include publishing package assets, managing database migrations, seeding and generating boilerplate code for new controllers, models, and migrations. This feature frees the developer from creating proper code skeletons. One can extend the functionality and capabilities of Artisan by implementing new custom commands.
@@ -51,3 +52,10 @@ Here are some core concepts of laravel:
 
  > ``Migratiion:`` Migrations are a type of version control for your database. They allow a team to modify the database schema and stay up to date on the current schema state. Migrations are typically paired with the Schema Builder to easily manage your application's schema.
 
+
+
+
+
+### III-``[RIDERS]'s UML(Unified Modeling Language) Diagrams:`` 
+
+#### Class Diagram:
