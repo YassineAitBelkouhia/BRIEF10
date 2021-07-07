@@ -45,5 +45,9 @@ I will be chosing LARAVEL for its Command Line Interface, Support for the Databa
 Here are some core concepts of laravel:
  > ``Artisan:`` Laravel has its own command line interface called as Artisan. Common uses of Artisan include publishing package assets, managing database migrations, seeding and generating boilerplate code for new controllers, models, and migrations. This feature frees the developer from creating proper code skeletons. One can extend the functionality and capabilities of Artisan by implementing new custom commands.
 
+ > ``Composer`` is a tool for dependency management in PHP. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.
 
+ > ``ORM (Object-relational mapping)``, also known as O/RM, and O/R mapping is a programming approach for converting data between incompatible type systems, many full stack frameworks provide their own database abstraction approaches or ORMs, ``The Eloquent ORM`` is Laravel's built-in ORM implementation. Laravel has the best Object-relational Mapper as compared to the other frameworks out there. This Object-relational mapping allows you to interact with your database objects and database relationships using expressive syntax.
+
+ > ``Migratiion:`` Migrations are a type of version control for your database. They allow a team to modify the database schema and stay up to date on the current schema state. Migrations are typically paired with the Schema Builder to easily manage your application's schema.
 
