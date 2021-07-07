@@ -52,7 +52,9 @@ Here are some core concepts of laravel:
 
  > ``Migratiion:`` Migrations are a type of version control for your database. They allow a team to modify the database schema and stay up to date on the current schema state. Migrations are typically paired with the Schema Builder to easily manage your application's schema.
  
-<br>
+ 
+ 
+ 
 ### ``III- [RIDERS]'s UML(Unified Modeling Language) Diagrams:`` 
 
 #### ```Class Diagram:```
