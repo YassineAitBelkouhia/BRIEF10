@@ -2,7 +2,7 @@
 # ```RIDERS``` : A BLOG PROJECT WITH LARAVEL AND VUE.JS.
 
 ### ``I- PHP FRAMWORKS BENCHMARKING:``
-There too many framworks, it is difficult to have an objective opinion on wich is the best to use.
+There are too many PHP framworks, it is difficult to have an objective opinion on wich is the best to use.
 For example if the question was specific such as :
 
   -Wich is the most popular PHP Framwork ?, the answer is LARAVEL.
