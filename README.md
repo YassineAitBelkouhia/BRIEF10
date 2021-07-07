@@ -1,7 +1,7 @@
 ## BRIEF10
 # ```RIDERS``` : A BLOG PROJECT WITH LARAVEL AND VUE.JS.
 
-### I-``PHP FRAMWORKS BENCHMARKING:``
+### ``I- PHP FRAMWORKS BENCHMARKING:``
 There too many framworks, it is difficult to have an objective opinion on wich is the best to use.
 For example if the question was specific such as :
   -Wich is the most popular PHP Framwork ?, the answer is LARAVEL.
@@ -39,7 +39,7 @@ Symfony :
 
 
 
-### II-``DEFINITION OF SOME CORE CONCEPTS:`` 
+### ``II- DEFINITION OF SOME CORE CONCEPTS:`` 
 
 I will be chosing LARAVEL for its Command Line Interface, Support for the Database system and migrations, and also its packaging system.
 
@@ -51,12 +51,9 @@ Here are some core concepts of laravel:
  > ``ORM (Object-relational mapping)``, also known as O/RM, and O/R mapping is a programming approach for converting data between incompatible type systems, many full stack frameworks provide their own database abstraction approaches or ORMs, ``The Eloquent ORM`` is Laravel's built-in ORM implementation. Laravel has the best Object-relational Mapper as compared to the other frameworks out there. This Object-relational mapping allows you to interact with your database objects and database relationships using expressive syntax.
 
  > ``Migratiion:`` Migrations are a type of version control for your database. They allow a team to modify the database schema and stay up to date on the current schema state. Migrations are typically paired with the Schema Builder to easily manage your application's schema.
-
-
-
-
-
-### III-``[RIDERS]'s UML(Unified Modeling Language) Diagrams:`` 
+ 
+<br>
+### ``III- [RIDERS]'s UML(Unified Modeling Language) Diagrams:`` 
 
 #### ```Class Diagram:```
 
