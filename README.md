@@ -9,9 +9,6 @@ For example if the question was specific such as :
   -Wich is the best for performance ?, the answer is PHALCON.
   -Wich is the most extandable ?, the answer is SYMFONY.   
   
-  
-
-
 ``Different Frameworks can solve different problems, the answer to "Wich is the best PHP Framwork ?" will always be "IT DEPENDS".``
 
 ### Taking for example four popular PHP Framworks:
@@ -23,20 +20,30 @@ CodeIgniter :
 - Using CodeIgniter makes it unavoidable to write spaghetti code (for some parts).
 - Very good performance.
 
-
 Laravel : 
 - The most popular PHP Framework.
 - Clean Code and follows good practices.
 - It may be slow on some environements.
 - Preferable for big projects.
 
-
 Phalcon :
 - One of the fastest PHP frameworks (Built with C :heart:).
 - Can be difficult to use.
 - Stable and fast wich make it the better option if performance is the main priority
 
-
 Symfony :
 - The code quality of Symfony makes it, as of today, one of the best architected and cleanest PHP frameworks available.
 - Performance can be an issue sometimes, especially with older versions of Symfony.
+
+
+
+
+### II-``DEFINITION OF SOME CORE CONCEPTS:`` 
+
+I will be chosing LARAVEL for its Command Line Interface, Support for the Database system and migrations. It also its packaging system.
+
+Here are some core concepts of laravel:
+ < ``Artisan:`` Laravel has its own command line interface called as Artisan. Common uses of Artisan include publishing package assets, managing database migrations, seeding and generating boilerplate code for new controllers, models, and migrations. This feature frees the developer from creating proper code skeletons. One can extend the functionality and capabilities of Artisan by implementing new custom commands.
+
+
+
