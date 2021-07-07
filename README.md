@@ -43,7 +43,7 @@ Symfony :
 I will be chosing LARAVEL for its Command Line Interface, Support for the Database system and migrations. It also its packaging system.
 
 Here are some core concepts of laravel:
- < ``Artisan:`` Laravel has its own command line interface called as Artisan. Common uses of Artisan include publishing package assets, managing database migrations, seeding and generating boilerplate code for new controllers, models, and migrations. This feature frees the developer from creating proper code skeletons. One can extend the functionality and capabilities of Artisan by implementing new custom commands.
+ > ``Artisan:`` Laravel has its own command line interface called as Artisan. Common uses of Artisan include publishing package assets, managing database migrations, seeding and generating boilerplate code for new controllers, models, and migrations. This feature frees the developer from creating proper code skeletons. One can extend the functionality and capabilities of Artisan by implementing new custom commands.
 
 
 
