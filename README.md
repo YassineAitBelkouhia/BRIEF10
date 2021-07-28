@@ -1,5 +1,5 @@
 ## BRIEF10
-# ```RIDERS``` : A BLOG PROJECT WITH LARAVEL.
+# ```RIDERS``` : A BLOG PROJECT WITH LARAVEL AND VUE.JS.
 
 ### ``I- PHP FRAMWORKS BENCHMARKING:``
 There are too many PHP framworks, it is difficult to have an objective opinion on wich is the best to use.
