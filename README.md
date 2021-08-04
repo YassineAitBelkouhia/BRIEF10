@@ -62,6 +62,7 @@ Here are some core concepts of laravel:
 ### ``III- [RIDERS]'s UML(Unified Modeling Language) Diagrams:`` 
 
 #### ```Class Diagram:```
+![class](https://user-images.githubusercontent.com/77494902/128265151-97b89d3d-13cd-4187-b5db-000e0dbbadac.jpg)
 
 
 #### ```Use Case Diagram:```
